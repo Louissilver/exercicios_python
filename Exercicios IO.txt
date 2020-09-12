@@ -1,0 +1,19 @@
+Exercício 1:
+1.Criar um script Python que peça o curso e o tempo de
+duração do mesmo. Imprima a seguinte mensagem:
+Você estuda no curso de …. que dura … semestres!
+2. Criar um script Python que solicite o dia, mes e ano de
+nascimento. Imprima à seguinte mensagem:
+Nascido em … de …. de …..
+3. Criar um script Python que leia 3 números e mostre a média
+aritmética dos números digitados. 
+
+Exercício 2:
+1. Programa que solicite a idade de uma pessoa:
+2. Programa para mostrar a multiplicação de dois números:
+3. Programa que solicite a data de nascimento de uma pessoa e mostre no formato (dd/mm/aaaa):
+4. Programa que solicite duas notas de um aluno e imprima sua média:
+5. Programa que solicite o número de litros de gasolina e a quilometragem e imprima o consumo:
+6. Programa que calcule o IMC (IMC = Peso/altura2)
+7. Programa que solicite o raio e retorne o volume de uma esfera (V = 4/3πR³):
+8. Programa que solicite o raio e retorne a área de uma superfície esférica(A=4πR²):
